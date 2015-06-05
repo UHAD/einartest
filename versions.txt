@@ -1,0 +1,1 @@
+0.1 Opprettar ei versjonsfil slik at det er finns ei versjonsfil med ein versjon. Versjonar er fine.
